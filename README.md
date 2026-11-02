@@ -56,10 +56,12 @@
 
 使用方式：
 
-1. 将脚本保存为 `.user.js` 文件，例如：`proctoring-study-demo.user.js`
+1. 使用仓库中的脚本文件 `frontend-proctoring-signals-demo.user.js`
 2. 安装 Tampermonkey 浏览器扩展
 3. 在脚本管理器中导入该脚本
 4. 在目标页面中运行后，即可观察事件、状态和全屏信号被脚本控制的效果
+
+该仓库同时保留原始文本版本 `教师研究专用.txt`，便于阅读与归档；推荐直接使用 `.user.js` 版本进行导入。
 
 ## 规范与伦理说明
 
